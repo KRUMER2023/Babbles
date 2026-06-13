@@ -1,0 +1,49 @@
+#  Virtual Environment 
+.venv/
+venv/
+env/
+ENV/
+
+#  Python 
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+.eggs/
+
+#  Whisper Model Cache 
+# faster-whisper downloads models here
+models/
+*.bin
+
+#  Config Secrets (API keys, if any) 
+.env
+secrets.json
+.agents
+
+#  Logs 
+*.log
+logs/
+
+#  OS 
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#  IDEs & Editors 
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+#  Pytest / Coverage 
+.pytest_cache/
+.coverage
+htmlcov/

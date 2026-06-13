@@ -1,0 +1,20 @@
+# ── Transcription Engine ──────────────────────────────────────────────────────
+faster-whisper>=1.0.0      # CTranslate2-backed Whisper (4× faster than openai-whisper)
+
+# ── Audio Capture ─────────────────────────────────────────────────────────────
+sounddevice>=0.4.6         # PortAudio bindings — in-memory recording
+numpy>=1.26.0              # Audio buffer as float32 arrays
+
+# ── Hotkey & Output ───────────────────────────────────────────────────────────
+keyboard>=0.13.5           # Global hotkey listener + Ctrl+V simulation
+pyperclip>=1.8.2           # Cross-platform clipboard read/write
+
+# ── System Tray ──────────────────────────────────────────────────────────────
+pystray>=0.19.4            # System-tray icon
+Pillow>=10.0.0             # Icon image generation for pystray
+
+# ── Settings UI ──────────────────────────────────────────────────────────────
+customtkinter>=5.2.0       # Modern Tkinter-based settings window
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+# tkinter ships with Python stdlib — no pip install needed
