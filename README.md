@@ -71,4 +71,4 @@ babbles/
 
 ## 📖 Documentation Rule
 
-> **Every change, optimisation, or new feature MUST be recorded in [CHANGELOG.md](docs/CHANGELOG.md) and reflected in [ARCHITECTURE.md](docs/ARCHITECTURE.md) before the task is considered complete.**
+**Every change, optimisation, or new feature MUST be recorded in [CHANGELOG.md](docs/CHANGELOG.md) and reflected in [ARCHITECTURE.md](docs/ARCHITECTURE.md) before the task is considered complete.**
