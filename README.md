@@ -1,4 +1,5 @@
-# Babbles 🎙
+# <h1 style = "color : rgba(166, 30, 220, 1); font-size : 70px ; font-weight : 900"><img src="babbles_logo.ico" alt="Babbles Icon" width="50" height="50"> Babbles </h1>
+
 
 > **Hold `Ctrl + Space` → speak → release → text appears in the active window.** <br>
 > **Also you can use toogle hotkey `Ctrl + Alt + Space` to start/stop listening.**
@@ -11,7 +12,8 @@ For Rapid Use Already 2 working Whisper-models ( `Whisper-base` and `Whisper-sma
 
 ---
 
-## ✨ Features
+
+## Features
 
 | Feature | Details |
 |---|---|
@@ -27,7 +29,7 @@ For Rapid Use Already 2 working Whisper-models ( `Whisper-base` and `Whisper-sma
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 See **[SETUP.md](docs/SETUP.md)** for the full setup guide.
 
@@ -36,11 +38,11 @@ See **[SETUP.md](docs/SETUP.md)** for the full setup guide.
 python main.py
 ```
 
-> ⚠️ Run as **Administrator** on Windows (required by the `keyboard` library for global hotkey detection).
+> Run as **Administrator** on Windows (required by the `keyboard` library for global hotkey detection).
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 babbles/
 ├── main.py              # Entry point
@@ -69,6 +71,6 @@ babbles/
 
 ---
 
-## 📖 Documentation Rule
+## Documentation Style
 
 **Every change, optimisation, or new feature MUST be recorded in [CHANGELOG.md](docs/CHANGELOG.md) and reflected in [ARCHITECTURE.md](docs/ARCHITECTURE.md) before the task is considered complete.**
