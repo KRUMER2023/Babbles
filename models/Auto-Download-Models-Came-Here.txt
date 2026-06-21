@@ -1,0 +1,3 @@
+This is the folder where the whisper models are gonna downloaded and stored for use. 
+
+Once you run the main.py file from root folder with virtual environment it detects that currently the models are not downloaded and it will download from the huggingface.com and they get stored on this directory.

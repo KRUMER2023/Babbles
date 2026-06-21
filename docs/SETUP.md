@@ -64,7 +64,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-On first launch, Babbles loads the Whisper model directly from the local `models/` folder (which contains pre-downloaded `base` and `small` models). The default model size is `small` (~480 MB), which loads instantly and runs fully offline.
+On first launch, Babbles loads the Whisper model directly from the local `models/` folder . The default model size is `small` (~480 MB), which loads instantly and runs fully offline.
 
 ---
 

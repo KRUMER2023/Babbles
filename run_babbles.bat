@@ -14,6 +14,7 @@ if %errorLevel% == 0 (
     
     cd /d "%~dp0"
     .venv\Scripts\python.exe main.py
+    pause
 ) else (
     echo [*] Babbles requires Administrator privileges to monitor global hotkeys.
     echo [*] Requesting elevation...

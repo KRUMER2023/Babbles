@@ -11,7 +11,6 @@
 ## Babbles is a lightweight, local-first speech-to-text desktop application for Windows. It uses **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** backed by **CTranslate2** to run **OpenAI's Whisper model** directly on your GPU And CPU — no cloud, no API keys.
 <br>
 
-For Rapid Use Already 2 working Whisper-models ( `Whisper-base` and `Whisper-small` ) are pre-downloaded in `models/` dir to direct use.
 
 <br>
 
@@ -46,9 +45,18 @@ See **[SETUP.md](docs/SETUP.md)** for the full setup guide.
 ```bash
 # After creating your venv and installing dependencies:
 python main.py
-```
 
-> Run as **Administrator** on Windows (required by the `keyboard` library for global hotkey detection).
+# Activate the python virtual environment
+# All the below steps should be done in the virtual environment terminal, not normal terminal.
+python .\venv\Scripts\activate
+
+# Upgrading pip and installing the requirements
+pip install --upgrade pip
+pip install -r requirements.txt
+
+# run main.py
+py main.py
+```
 
 ---
 
@@ -77,6 +85,7 @@ babbles/
 └── docs/
     ├── ARCHITECTURE.md
     ├── CHANGELOG.md
+    ├── SETTINGS.md
     └── SETUP.md
 ```
 
