@@ -20,7 +20,8 @@ build/
 
 #  Whisper Model Cache 
 # faster-whisper downloads models here
-
+models/models--Systran--faster-whisper-base
+models/models--Systran--faster-whisper-small
 *.bin
 
 #  Config Secrets (API keys, if any) 
