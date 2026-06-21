@@ -1,12 +1,12 @@
-<!-- # <h1 style = "color : rgba(166, 30, 220, 1); font-size : 70px ; font-weight : 900"><img src="babbles_logo.ico" alt="Babbles Icon" width="50" height="50"> Babbles </h1> -->
 
 
 <img alt = "Banner" src="Branding_assests/Babbles_Banner.png" width = "100%" ></img>
 
 
-<img src="Branding_assests/Babbles_Gif.gif" width= "50%"></img>
+<img alt = "Babbles Gif" src="Branding_assests/Babbles_Gif.gif" width= "50%"></img>
 
 
+# <h1 style = "color : rgba(166, 30, 220, 1); font-size : 70px ; font-weight : 900"><img src="babbles_logo.ico" alt="Babbles Icon" width="70"  style = "background-color: rgba(0, 0, 0, 1); font-family : Cosmic sans"> Babbles </h1>
 
 ## Babbles is a lightweight, local-first speech-to-text desktop application for Windows. It uses **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** backed by **CTranslate2** to run **OpenAI's Whisper model** directly on your GPU And CPU — no cloud, no API keys.
 <br>
