@@ -4,6 +4,9 @@
 <img alt = "Banner" src="Branding_assests/Babbles_Banner.png" width = "100%" ></img>
 
 
+<img src="Branding_assests/Babbles_Gif.gif" width= "50%"></img>
+
+
 
 ## Babbles is a lightweight, local-first speech-to-text desktop application for Windows. It uses **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** backed by **CTranslate2** to run **OpenAI's Whisper model** directly on your GPU And CPU — no cloud, no API keys.
 <br>
