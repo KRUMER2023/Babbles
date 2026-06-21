@@ -20,7 +20,7 @@ build/
 
 #  Whisper Model Cache 
 # faster-whisper downloads models here
-models/
+
 *.bin
 
 #  Config Secrets (API keys, if any) 
