@@ -1,4 +1,7 @@
-# <h1 style = "color : rgba(166, 30, 220, 1); font-size : 70px ; font-weight : 900"><img src="babbles_logo.ico" alt="Babbles Icon" width="50" height="50"> Babbles </h1>
+<!-- # <h1 style = "color : rgba(166, 30, 220, 1); font-size : 70px ; font-weight : 900"><img src="babbles_logo.ico" alt="Babbles Icon" width="50" height="50"> Babbles </h1> -->
+
+
+<img alt = "Banner" src="Branding_assests/Babbles_Banner.png" width = "100%" ></img>
 
 
 > **Hold `Ctrl + Space` → speak → release → text appears in the active window.** <br>
