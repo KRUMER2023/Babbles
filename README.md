@@ -15,9 +15,16 @@
 <br>
 
 > **Hold `Ctrl + Space` → speak → release → text appears in the active window.** <br>
-> **Also you can use toogle hotkey `Ctrl + Alt + Space` to start/stop listening.**
 
-> **Recommended to use `Whisper-small` give high results while uses low space and high performance in GPU mode as well as CPU mode.**
+> **Also you can use toogle hotkey `Ctrl + Alt + Space` to start/stop listening.**<br>
+
+> **Recommended to use `Whisper-small` give high results while uses low space and high performance in GPU mode as well as CPU mode.**<br>
+
+> **On running a `setup.bat` file the `Whisper-small` model will be automatically downloaded in this project folder `models/` directory**<br>
+
+> **Once the setup is completed you can able to run the project using run_babbles.bat file.**<br>
+
+> **You can change the model from the settings of tray icon.**
 
 ---
 
