@@ -4,12 +4,16 @@
 <img alt = "Banner" src="Branding_assests/Babbles_Banner.png" width = "100%" ></img>
 
 
-> **Hold `Ctrl + Space` → speak → release → text appears in the active window.** <br>
-> **Also you can use toogle hotkey `Ctrl + Alt + Space` to start/stop listening.**
 
-Babbles is a lightweight, local-first speech-to-text desktop application for Windows. It uses [faster-whisper](https://github.com/SYSTRAN/faster-whisper) backed by CTranslate2 to run OpenAI's Whisper model directly on your GPU — no cloud, no API keys.
+## Babbles is a lightweight, local-first speech-to-text desktop application for Windows. It uses **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** backed by **CTranslate2** to run **OpenAI's Whisper model** directly on your GPU And CPU — no cloud, no API keys.
+<br>
 
 For Rapid Use Already 2 working Whisper-models ( `Whisper-base` and `Whisper-small` ) are pre-downloaded in `models/` dir to direct use.
+
+<br>
+
+> **Hold `Ctrl + Space` → speak → release → text appears in the active window.** <br>
+> **Also you can use toogle hotkey `Ctrl + Alt + Space` to start/stop listening.**
 
 > **Recommended to use `Whisper-small` give high results while uses low space and high performance in GPU mode as well as CPU mode.**
 
@@ -47,6 +51,7 @@ python main.py
 
 ## Project Structure
 
+```
 babbles/
 ├── main.py              # Entry point
 ├── config.json          # User settings
