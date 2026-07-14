@@ -48,3 +48,7 @@ desktop.ini
 .pytest_cache/
 .coverage
 htmlcov/
+
+# temporary
+models1.rar
+Babbles_Application_Setup.zip
